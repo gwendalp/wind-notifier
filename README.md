@@ -26,4 +26,4 @@ You can build the APK file in Android Studio, and launch it on your smartphone. 
 
 Here are the video links :
 
-https://github.com/gwendalp/wind-notifier/blob/master/doc/image/example.png
+https://youtu.be/oWqsuaSY8To
