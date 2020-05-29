@@ -16,9 +16,14 @@ The weather is only a pretext to build a dynamic application, it can be easily a
 
 ## Setup
 
+You can build the APK file in Android Studio, and launch it on your smartphone. Enable developer option on your smatrtphone, and allow open from an unknown source
 
 
+## Demonstration
 
 
+[![video](https://github.com/gwendalp/wind-notifier/blob/master/doc/image/example.png)](https://youtu.be/oWqsuaSY8To "video")
 
-## Joint Configuration
+Here are the video links :
+
+https://github.com/gwendalp/wind-notifier/blob/master/doc/image/example.png
